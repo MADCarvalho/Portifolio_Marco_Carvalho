@@ -1,0 +1,79 @@
+{
+    "name": "Marco Carvalho",
+    "photo": "https://avatars.githubusercontent.com/u/148645674?v=4",
+    "job": "Op. Log. Mercado Livre ",
+    "location": "Bragança Paulista  - SP",
+    "phone": "(11) 94865-6639",
+    "email": "marco.delfino@hotail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+        },
+        {
+          "name": "Javascript",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+        },
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        },
+        {
+          "name": "Angular",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        },
+        {
+          "name": "React",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        },
+        {
+          "name": "MySQL",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+        }
+      ],
+      "softSkills": [
+        "Resolução de problemas",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (leitura basico)"
+    ],
+    "portfolio": [
+      {
+        "name": "Dimensionamento de paineis fotovoltaicos",
+        "url": "https://github.com/brunoBenedicto/Dimensionamento-de-paineis-fotovoltaicos",
+        "github": true
+      },
+      {
+        "name": "api consulta irradiação solar do brasil",
+        "url": "https://github.com/brunoBenedicto/Irradiacao-brasil",
+        "github": true
+      },
+      {
+        "name": "cotação de moedas (conversor real/dolar...)",
+        "url": "https://github.com/brunoBenedicto/cotacaoDeMoedas",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Oerador logistico I ",
+        "period": "",
+        "description": "Apesar de gostar muito da profissão de marceneiro, tenho uma paixão maior pela area de devensolvimento de sistemas."
+      },
+      {
+        "name": "Marceneiro",
+        "period": "2015 - até o momento",
+        "description": "trabalhando de forma autonoma, projetando e produzindo moveis dos mais variados em madeira sob medida."
+      }
+    ]
+  }
