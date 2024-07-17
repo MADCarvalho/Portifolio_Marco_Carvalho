@@ -24,8 +24,8 @@
           "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
         },
         {
-          "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+          "name": "Python",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
         },
         {
           "name": "React",
@@ -49,31 +49,41 @@
     ],
     "portfolio": [
       {
-        "name": "Dimensionamento de paineis fotovoltaicos",
-        "url": "https://github.com/brunoBenedicto/Dimensionamento-de-paineis-fotovoltaicos",
+        "name": "Projeto Integrador em Computação Univesp 2024",
+        "url": "https://github.com/MADCarvalho/PI_Univesp_2024-",
         "github": true
       },
       {
-        "name": "api consulta irradiação solar do brasil",
-        "url": "https://github.com/brunoBenedicto/Irradiacao-brasil",
+        "name": "Clonando o Site da HBO Max com Animações em HTML e CSS",
+        "url": "https://github.com/MADCarvalho/Desafio_css_5",
         "github": true
       },
       {
-        "name": "cotação de moedas (conversor real/dolar...)",
-        "url": "https://github.com/brunoBenedicto/cotacaoDeMoedas",
+        "name": "Reproduzindo a Listagem do YouTube com Grid Layout no CSS",
+        "url": "https://github.com/MADCarvalho/Desafio_css_3",
         "github": true
-      }
+      },
+      {
+        "name": " Recriando o Wikipedia com Layout Moderno",
+        "url": "https://github.com/MADCarvalho/HTML_desafio3",
+        "github": true
+      },
+      {
+        "name": "js-developer-pokedex",
+        "url": "https://github.com/MADCarvalho/js-developer-pokedex",
+        "github": true
+      } 
     ],
     "professionalExperience": [
       {
         "name": "Oerador logistico I ",
-        "period": "",
-        "description": "Apesar de gostar muito da profissão de marceneiro, tenho uma paixão maior pela area de devensolvimento de sistemas."
+        "period": "2021 - até o momento",
+        "description": "Atuando na área de operações logísticas no Mercado Livre"
       },
       {
-        "name": "Marceneiro",
-        "period": "2015 - até o momento",
-        "description": "trabalhando de forma autonoma, projetando e produzindo moveis dos mais variados em madeira sob medida."
+        "name": "Consultor Técnico",
+        "period": "outubro 2014 - maio 2019",
+        "description": "Vendas e assistência técnica em games, informática e acessórios, executando manutenção e orçamentos de desktops, notebooks evideogames."
       }
     ]
   }
